@@ -1,5 +1,5 @@
 {
-  "name": "163music-download-cli",
+  "name": "music-163-load",
   "version": "1.0.0",
   "description": "download music from 163 through cli",
   "main": "index.js",
