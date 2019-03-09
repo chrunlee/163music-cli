@@ -2,7 +2,7 @@
 
 let fs = require('fs');
 let log = print = console.log;
-let api = require('./lib/api');
+let api = require('../lib/api');
 
 let argv = require("minimist")(process.argv.slice(2), {
   alias: {
