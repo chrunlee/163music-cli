@@ -1,6 +1,6 @@
 {
   "name": "music-163-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "download music from 163 through cli",
   "main": "index.js",
   "bin": {
@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/chrunlee/163music-cli#readme",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "big-integer": "^1.6.42",
+    "minimist": "^1.2.0",
+    "superagent": "^4.1.0"
   }
 }
