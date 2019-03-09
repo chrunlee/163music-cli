@@ -1,0 +1,27 @@
+{
+  "name": "163music-download-cli",
+  "version": "1.0.0",
+  "description": "download music from 163 through cli",
+  "main": "index.js",
+  "bin": {
+    "download": "./index",
+    "163download": "./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrunlee/163music-cli.git"
+  },
+  "keywords": [
+    "msuic.163.com",
+    "downloader"
+  ],
+  "author": "chrunlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrunlee/163music-cli/issues"
+  },
+  "homepage": "https://github.com/chrunlee/163music-cli#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
