@@ -3,8 +3,7 @@
   "version": "1.0.2",
   "description": "download music from 163 through cli",
   "bin": {
-    "download": "./bin/music-163-load",
-    "163download": "./bin/music-163-load"
+    "download": "./bin/music-163-load"
   },
   "repository": {
     "type": "git",
