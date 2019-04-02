@@ -3,7 +3,7 @@ download music from 163 through cli
 
 # install
 ```
-npm install music-163-load
+npm install music-163-load -g
 ```
 
 # usage
